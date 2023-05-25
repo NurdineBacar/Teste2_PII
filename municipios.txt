@@ -1,0 +1,5 @@
+0;Namaacha;Pouco concorrido;Maputo;1491;0
+1;Boane;Muito pouco concorrido;Maputo;500;0
+2;Matola;Muito concorrido;Maputo;700;0
+3;Maputo cidade;Muito pouco concorrido;Maputo;499;3
+4;Marracuene;Muito pouco concorrido;Maputo;499;4
